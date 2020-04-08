@@ -1,0 +1,2 @@
+# Titanic
+Modelo Naive bayes 
