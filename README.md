@@ -8,7 +8,7 @@ Se manejo un conjunto de entrenamiento, al conjunto de prueba no le proporcionam
 ![](https://ichef.bbci.co.uk/news/410/cpsprodpb/8005/production/_95137723_e906bb7e-89ae-4286-96fb-63562e7f2387.jpg)
 
 
-#### IInstalación :tw-1f527:
+#### Instalación :tw-1f527
 
 Una vez descargado el repositorio debemos crear un entonor virtual para instalar las respectivas librerias
 
