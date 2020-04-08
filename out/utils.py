@@ -1,7 +1,5 @@
 
 import pandas as pd
-from sklearn.naive_bayes import GaussianNB
-
 
 
 class Utils:
